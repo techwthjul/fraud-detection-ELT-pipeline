@@ -1,5 +1,7 @@
 # End-to-End Fraud Detection Data Pipeline
 
+![Project Architecture Diagram](https://raw.githubusercontent.com/techwthjul/fraud-detection-ELT-pipeline/main/archi.png)
+
 ---
 
 ## 🎯 What Problem Are We Solving?
